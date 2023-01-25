@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+li {
+  list-style: none;
+  padding-left: 0px;
+  border-style: solid;
+  border-color: #b5b7c4;
+  border-width: 1px;
+  margin-left: 0px;
+  padding: 15px;
+  border-radius: 15px;
+  width: 200px;
+  margin: 5px;
+}
+.title-heading {
+  color: #171f46;
+  font-size: 15px;
+}
+.date-para {
+  color: #b5b7c4;
+  font-size: 10px;
+}
+
+.image-star {
+  height: 20px;
+}
+.appointment-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.starred-button {
+  background-color: transparent;
+  padding: 0px;
+  width: none;
+  color: white;
+  padding: 9px;
+  width: 40px;
+  border-width: 0px;
+  border-radius: 0px;
+  font-size: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
